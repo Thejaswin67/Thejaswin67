@@ -2,60 +2,92 @@
 
 👋 Hi, I'm Thejaswin S aka LEO
 
-II Year B.Tech Information Technology Student | Aspiring Unity / Godot Game Developer | MERN Full-Stack Developer | Figma UI/UX Designer | DaVinci Resolve Video Editor
+II Year B.Tech Information Technology Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Game+Development+%7C+MERN+Full-Stack;UI%2FUX+Design+%7C+Video+Editing;Building+Projects+%7C+Learning+Technologies;Preparing+for+GATE+%26+TNUSRB;Always+Learning.+Always+Building." alt="Typing SVG"/>
+Game Development • MERN Full-Stack Development • UI/UX Design • Video Editing
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=I+learn+by+building.;I+turn+ideas+into+projects.;Game+Development+%7C+MERN+%7C+UI%2FUX;Preparing+for+GATE+%26+TNUSRB;Learn+%E2%86%92+Build+%E2%86%92+Improve." alt="Typing animation" />
+</p>
 
 </div>
 
-🚀 About Me
+🧑‍💻 Who Am I?
 
-🎓 II Year B.Tech Information Technology student at Sri Venkateswaraa College of Technology.
+I’m Thejaswin S, also known as LEO, a II Year B.Tech Information Technology student at Sri Venkateswaraa College of Technology.
 
-💻 Passionate about Full-Stack Web Development and building practical applications.
+I’m exploring different sides of technology rather than limiting myself to a single path. I enjoy building websites, experimenting with game development, designing interfaces, editing videos, and learning how software works from the ground up.
 
-🎮 Aspiring Unity / Godot Game Developer interested in C#, Unity, Godot and Blender.
+My current direction is:
 
-🌐 Aspiring MERN Full-Stack Developer with an interest in building complete web applications.
+Learn the fundamentals → Build real projects → Gain experience → Keep improving.
 
-🎨 Exploring UI/UX Design using Figma.
+At the same time, I’m working toward two major personal goals:
 
-🎬 Interested in Video Editing using DaVinci Resolve.
+🎯 Crack GATE in my first attempt🛡️ Crack the TNUSRB Examination in my first attempt
 
-📊 Exploring Data Analytics, Exploratory Data Analysis and Business Intelligence.
+🧭 My Developer Journey
 
-🌱 Currently strengthening my Data Structures & Algorithms, Java, C++, MERN Stack and software development skills.
+                         THEJASWIN S / LEO
 
-🧩 I enjoy turning ideas into real-world projects and continuously improving my problem-solving abilities.
+       ┌─────────────────────────────────────────────────┐
+       │                 INFORMATION TECHNOLOGY          │
+       └───────────────────────┬─────────────────────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          ▼                    ▼                    ▼
+     🌐 WEB DEV            🎮 GAME DEV          🎨 DESIGN
+     MERN Stack             Unity / Godot        Figma
+          │                    │                    │
+          └────────────────────┼────────────────────┘
+                               ▼
+                       🚀 BUILD PROJECTS
+                               │
+                               ▼
+                     💼 GAIN EXPERIENCE
+                               │
+                               ▼
+                    📚 KEEP LEARNING
+                               │
+                               ▼
+                  🎯 GATE + TNUSRB GOALS
 
-🏆 Interested in internships, hackathons, open-source projects and collaborative development.
+🚀 What I’m Interested In
 
-🇯🇵 Currently learning basic Japanese.
+Area
 
-🎯 My biggest academic goals are to crack the GATE and TNUSRB examinations in my first attempt.
-
-🚀 My long-term goal is to become a versatile technology professional capable of transforming ideas into complete, useful products.
-
-🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/thejaswin-s/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://thejaswinportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
-🧰 Tech Stack
+What I'm Exploring
 
 🌐 Full-Stack Development
 
+MongoDB, Express.js, React.js, Node.js
+
+🎮 Game Development
+
+C#, Unity, Godot, Blender
+
+🎨 UI/UX Design
+
+Figma, interface design, user experience
+
+🎬 Video Editing
+
+DaVinci Resolve
+
+📊 Data Analytics
+
+Data Wrangling, EDA, Business Intelligence
+
+🧠 Computer Science
+
+DSA, Java, C++, programming fundamentals
+
+🛠️ Technologies I Work With
+
+🌐 Web
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql"/>
 </p>
 
 🎮 Game Development
@@ -64,93 +96,101 @@ II Year B.Tech Information Technology Student | Aspiring Unity / Godot Game Deve
 <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender"/>
 </p>
 
-🎨 UI/UX & Development Tools
+🎨 Design & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,npm,docker"/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,docker"/>
 </p>
 
-💻 Programming & Data
+💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp"/>
 </p>
 
-🎬 Creative Tools
+🎬 Creative
 
 DaVinci Resolve • Figma • Blender
 
-🚀 Featured Projects
+🚀 Things I've Built
 
 📝 ThinkBoard
 
 Full-Stack MERN Notes Application
 
-A full-stack notes application for creating, managing and organizing notes.
+A full-stack notes application created to practice the complete flow of a modern web application.
 
-Tech Stack: MongoDB Express.js React.js Node.js
+Built with
 
-📝 Create and manage notes
+MongoDB Express.js React.js Node.js
 
-✏️ Update notes
+What I worked on
 
-🗑️ Delete notes
+📝 Creating and managing notes
+
+✏️ Updating notes
+
+🗑️ Deleting notes
 
 🔗 REST API integration
 
-☁️ Deployed application
+🗄️ Database operations
 
-🔗 Portfolio: https://thejaswinportfolio.netlify.app/
+☁️ Deployment
+
+🌐 Portfolio: https://thejaswinportfolio.netlify.app/
 
 🎨 Gwen
 
-Creative / Design Project
+A creative project that represents my interest in combining development, design and visual creativity.
 
-A creative project developed as part of my journey in exploring design, development and digital experiences.
+Focus
 
-Focus: Creative Development UI/UX Design
+Creative Development UI/UX Design
 
-💜 VS Creations & DJ Events
+🎧 VS Creations & DJ Events
 
-Business Advertising & Promotional Website
+A website project developed with a friend for showcasing VS Creations & DJ Events and its services.
 
-A collaborative website developed with a friend to showcase VS Creations & DJ Events, its services and business offerings.
+Focus
 
-Focus: Figma Web Development UI/UX Responsive Design
+Web Development UI/UX Responsive Design
 
-🎧 DJ & event services showcase
+What I explored
 
-🎨 Custom visual and UI design
+🎨 Interface design
 
-📱 Responsive website experience
+🎧 Event/DJ service presentation
 
-🤝 Collaboratively developed with a friend
+📱 Responsive layouts
 
-📋 To-Do List REST API
+🤝 Collaborative development
 
-A RESTful task-management API developed with Node.js, Express.js and MongoDB.
+✅ To-Do List REST API
 
-Tech Stack: Node.js Express.js MongoDB Postman
+A backend project created to understand how REST APIs communicate with a database.
 
-➕ Create tasks
+Built with
 
-📋 Retrieve tasks
+Node.js Express.js MongoDB Postman
 
-✏️ Update tasks
+Core operations
 
-🗑️ Delete tasks
-
-🧪 API testing using Postman
+CREATE • READ • UPDATE • DELETE
 
 🔐 User Authentication API
 
-A backend authentication system implementing registration, login and secure authentication flows.
+A backend authentication project focused on understanding how user accounts and protected routes work.
 
-Tech Stack: Node.js Express.js MongoDB JWT
+Built with
+
+Node.js Express.js MongoDB JWT
+
+Includes
 
 👤 User registration
 
-🔑 Login authentication
+🔑 Login
 
 🔒 Password encryption
 
@@ -160,11 +200,13 @@ Tech Stack: Node.js Express.js MongoDB JWT
 
 🤟 Intelligent Indian Sign Language Converter
 
-An accessibility-focused project developed around Indian Sign Language, supporting communication between English/Hindi audio-visual content and sign-language representations.
+An accessibility-focused project developed around Indian Sign Language conversion between English/Hindi audio-visual content and sign-language representations.
 
-Technologies: Python MediaPipe PyTorch FastAPI Flutter PostgreSQL ONNX Runtime
+Technologies explored
 
-🏆 Developed as part of Smart India Hackathon project work.
+Python MediaPipe PyTorch FastAPI Flutter PostgreSQL ONNX Runtime
+
+🏆 Smart India Hackathon Project
 
 💼 Experience
 
@@ -172,15 +214,15 @@ Technologies: Python MediaPipe PyTorch FastAPI Flutter PostgreSQL ONNX Runtime
 
 MERN Stack
 
-Worked with MongoDB, Express.js, React.js and Node.js.
+During this experience, I worked with:
 
-Practiced frontend and backend integration.
+MongoDB Express.js React.js Node.js
 
-Worked with REST APIs and database operations.
-
-Developed practical full-stack development experience.
+I gained practical exposure to frontend/backend integration, REST APIs, database operations and full-stack application development.
 
 📊 Data Analytics Intern — ApexPlanet Software Pvt. Ltd.
+
+Worked through areas including:
 
 Data Immersion & Wrangling
 
@@ -188,13 +230,42 @@ Exploratory Data Analysis
 
 Business Intelligence
 
-Data-driven analysis and problem solving
+Data-driven problem solving
 
-📚 Currently Learning
+📚 What I'm Learning Right Now
 
-Data Structures & Algorithms • Java • C++ • MERN StackReact.js • Node.js • Data Analytics • Game DevelopmentUI/UX • Git & GitHub • Unity • Godot
+DSA                 █████████░░
+Java                ████████░░░
+C++                 ███████░░░░
+MERN Stack          █████████░░
+Game Development    ████████░░░
+UI/UX               ████████░░░
+Data Analytics      ██████░░░░░
+Git & GitHub        ████████░░░
 
-📊 GitHub Statistics
+The goal isn't to learn everything at once.
+
+The goal is to become better than yesterday.
+
+🎯 My Biggest Goals
+
+📚 GATE
+
+My dream is to crack GATE in my first attempt.
+
+I’m working toward this by strengthening my Computer Science and Information Technology fundamentals while balancing college, projects and skill development.
+
+🛡️ TNUSRB
+
+Another major goal is to crack the TNUSRB Examination in my first attempt.
+
+This requires consistency, discipline and preparation — qualities I’m actively trying to build.
+
+💻 Career
+
+Alongside exam preparation, I want to become capable of building real software products and gaining meaningful industry experience.
+
+📈 GitHub Activity
 
 <div align="center">
 
@@ -204,7 +275,7 @@ Data Structures & Algorithms • Java • C++ • MERN StackReact.js • Node.js
 
 </div>
 
-🔥 GitHub Streak
+🔥 Contribution Streak
 
 <div align="center">
 
@@ -212,66 +283,36 @@ Data Structures & Algorithms • Java • C++ • MERN StackReact.js • Node.js
 
 </div>
 
-🏆 GitHub Trophies
+🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
+<a href="https://www.linkedin.com/in/thejaswin-s/">
+<img src="https://img.shields.io/badge/LinkedIn-Thejaswin%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://thejaswinportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Thejaswin%20S-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
-🐍 Contribution Snake
+⚡ Beyond Technology
+
+🏏 Cricket🍳 Cooking🎬 Movies & Anime🎵 Music📚 Reading🎮 Gaming🇯🇵 Learning Japanese
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+💡 My Rule
 
-</div>
+Learn → Build → Fail → Debug → Improve → Repeat
 
-🎯 2026 Goals
+<br>
 
-📚 Academic & Examination Goals
+🎯 Dream Big. Prepare Seriously. Build Consistently.
 
-🎯 Crack GATE in my first attempt
+<br>
 
-🛡️ Crack TNUSRB examination in my first attempt
-
-🧠 Build strong fundamentals in Computer Science and Information Technology
-
-📖 Maintain consistent and disciplined exam preparation
-
-💻 Technical Goals
-
-🚀 Become a strong MERN Full-Stack Developer
-
-🎮 Build meaningful Unity / Godot Game Development projects
-
-🧠 Improve Data Structures & Algorithms
-
-🎨 Improve UI/UX Design skills
-
-🎬 Improve Video Editing skills
-
-📊 Build practical Data Analytics projects
-
-🏆 Participate in more hackathons
-
-🌐 Build and deploy real-world applications
-
-🤝 Contribute to Open Source
-
-💼 Gain valuable industry experience
-
-⚡ Beyond Code
-
-🏏 Cricket • 🍳 Cooking • 🎬 Movies & Anime • 🎵 Music • 📚 Reading • 🎮 Games • 🌏 Learning Japanese
-
-<div align="center">
-
-💡 Learn → Build → Debug → Improve → Repeat.
-
-🎯 Dream → Prepare → Crack GATE & TNUSRB → Achieve.
-
-Thanks for visiting my profile! ⭐
+Thanks for visiting my GitHub profile! ⭐
 
 </div>
