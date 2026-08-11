@@ -1,318 +1,121 @@
 <div align="center">
 
-👋 Hi, I'm Thejaswin S aka LEO
+# 👋 Hi, I'm Thejaswin S aka LEO
 
-II Year B.Tech Information Technology Student
+### 19 | B.Tech - IT Student | Professional Overthinker 24/7
 
-Game Development • MERN Full-Stack Development • UI/UX Design • Video Editing
+**Not a Great Communicator Yet • Full-Time Procrastinator • Most Confused Person in the World**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=I+learn+by+building.;I+turn+ideas+into+projects.;Game+Development+%7C+MERN+%7C+UI%2FUX;Preparing+for+GATE+%26+TNUSRB;Learn+%E2%86%92+Build+%E2%86%92+Improve." alt="Typing animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Still+figuring+things+out...;Learning+by+building+things;Sometimes+debugging+my+code%2C+sometimes+myself;One+step+closer+every+day." alt="Typing animation"/>
 
 </div>
 
-🧑‍💻 Who Am I?
+---
 
-I’m Thejaswin S, also known as LEO, a II Year B.Tech Information Technology student at Sri Venkateswaraa College of Technology.
+## 🕸️ A Little About Me
 
-I’m exploring different sides of technology rather than limiting myself to a single path. I enjoy building websites, experimenting with game development, designing interfaces, editing videos, and learning how software works from the ground up.
+I'm **Thejaswin S**, aka **LEO**, a B.Tech Information Technology student at **Sri Venkateswaraa College of Technology**.
 
-My current direction is:
+I'm still figuring out what I want to become, so I'm exploring different areas of technology instead of putting myself into one box.
 
-Learn the fundamentals → Build real projects → Gain experience → Keep improving.
+I like **building things, experimenting with ideas, learning new technologies and occasionally wondering why my code worked five minutes ago but doesn't work now.**
 
-At the same time, I’m working toward two major personal goals:
+Currently exploring:
 
-🎯 Crack GATE in my first attempt🛡️ Crack the TNUSRB Examination in my first attempt
+- 🌐 Full-Stack Web Development
+- 🎮 Unity & Godot Game Development
+- 🎨 UI/UX Design with Figma
+- 🎬 Video Editing with DaVinci Resolve
+- 🧠 Data Structures & Algorithms
 
-🧭 My Developer Journey
+---
 
-                         THEJASWIN S / LEO
+## 🛠️ My Toolbox
 
-       ┌─────────────────────────────────────────────────┐
-       │                 INFORMATION TECHNOLOGY          │
-       └───────────────────────┬─────────────────────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-     🌐 WEB DEV            🎮 GAME DEV          🎨 DESIGN
-     MERN Stack             Unity / Godot        Figma
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               ▼
-                       🚀 BUILD PROJECTS
-                               │
-                               ▼
-                     💼 GAIN EXPERIENCE
-                               │
-                               ▼
-                    📚 KEEP LEARNING
-                               │
-                               ▼
-                  🎯 GATE + TNUSRB GOALS
+<p align="center">
 
-🚀 What I’m Interested In
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,cpp,cs,unity,godot,blender,figma,vscode,git,github,postman,docker" />
 
-Area
-
-What I'm Exploring
-
-🌐 Full-Stack Development
-
-MongoDB, Express.js, React.js, Node.js
-
-🎮 Game Development
-
-C#, Unity, Godot, Blender
-
-🎨 UI/UX Design
-
-Figma, interface design, user experience
-
-🎬 Video Editing
-
-DaVinci Resolve
-
-📊 Data Analytics
-
-Data Wrangling, EDA, Business Intelligence
-
-🧠 Computer Science
-
-DSA, Java, C++, programming fundamentals
-
-🛠️ Technologies I Work With
-
-🌐 Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql"/>
 </p>
 
-🎮 Game Development
+**Creative:** DaVinci Resolve • Figma • Blender
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,unity,godot,blender"/>
-</p>
+---
 
-🎨 Design & Tools
+## 🚀 Things I've Built
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,docker"/>
-</p>
+### 📝 ThinkBoard
 
-💻 Programming
+A MERN-based notes application built to understand how a complete full-stack application works, from frontend to backend and database.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp"/>
-</p>
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-🎬 Creative
+🌐 [Portfolio](https://thejaswinportfolio.netlify.app/)
 
-DaVinci Resolve • Figma • Blender
+---
 
-🚀 Things I've Built
+### 🎨 Gwen
 
-📝 ThinkBoard
+A creative project where I explored the combination of **design, development and visual presentation**.
 
-Full-Stack MERN Notes Application
+---
 
-A full-stack notes application created to practice the complete flow of a modern web application.
+### 🎧 VS Creations & DJ Events
 
-Built with
+A collaborative advertising website built with a friend for **VS Creations & DJ Events**, focusing on presenting the business and its services through a clean digital experience.
 
-MongoDB Express.js React.js Node.js
+`Figma` `UI/UX` `Web Development`
 
-What I worked on
+---
 
-📝 Creating and managing notes
+### 🤟 Intelligent Indian Sign Language Converter
 
-✏️ Updating notes
+A Smart India Hackathon project focused on improving accessibility through Indian Sign Language conversion.
 
-🗑️ Deleting notes
+`Python` `MediaPipe` `PyTorch` `FastAPI` `Flutter` `ONNX Runtime`
 
-🔗 REST API integration
+---
 
-🗄️ Database operations
+## 💼 Experience
 
-☁️ Deployment
+### 💻 Full-Stack Web Development Intern — Beeskilled
 
-🌐 Portfolio: https://thejaswinportfolio.netlify.app/
+Worked with the MERN stack and gained practical experience with frontend/backend integration, REST APIs and database operations.
 
-🎨 Gwen
+### 📊 Data Analytics Intern — ApexPlanet Software Pvt. Ltd.
 
-A creative project that represents my interest in combining development, design and visual creativity.
+Worked through data wrangling, exploratory data analysis and business intelligence concepts.
 
-Focus
+---
 
-Creative Development UI/UX Design
+## 📚 What I'm Working On
 
-🎧 VS Creations & DJ Events
+Right now, my focus is on becoming better at the fundamentals rather than trying to learn everything at once.
 
-A website project developed with a friend for showcasing VS Creations & DJ Events and its services.
+**DSA • Java • C++ • MERN • React • Node.js • Game Development • UI/UX • Data Analytics**
 
-Focus
+---
 
-Web Development UI/UX Responsive Design
+## 🎯 The Bigger Picture
 
-What I explored
+There are two goals that matter a lot to me:
 
-🎨 Interface design
+### 📖 GATE
 
-🎧 Event/DJ service presentation
+**Crack GATE in my first attempt.**
 
-📱 Responsive layouts
+### 🛡️ TNUSRB
 
-🤝 Collaborative development
+**Crack the TNUSRB Examination in my first attempt.**
 
-✅ To-Do List REST API
+Alongside these goals, I want to build enough technical ability to create real projects, gain industry experience and become someone who can take an idea and actually turn it into something useful.
 
-A backend project created to understand how REST APIs communicate with a database.
+---
 
-Built with
+## 📊 GitHub
 
-Node.js Express.js MongoDB Postman
+<p align="center">
 
-Core operations
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-CREATE • READ • UPDATE • DELETE
-
-🔐 User Authentication API
-
-A backend authentication project focused on understanding how user accounts and protected routes work.
-
-Built with
-
-Node.js Express.js MongoDB JWT
-
-Includes
-
-👤 User registration
-
-🔑 Login
-
-🔒 Password encryption
-
-🎫 JWT authentication
-
-🛡️ Protected routes
-
-🤟 Intelligent Indian Sign Language Converter
-
-An accessibility-focused project developed around Indian Sign Language conversion between English/Hindi audio-visual content and sign-language representations.
-
-Technologies explored
-
-Python MediaPipe PyTorch FastAPI Flutter PostgreSQL ONNX Runtime
-
-🏆 Smart India Hackathon Project
-
-💼 Experience
-
-💻 Full-Stack Web Development Intern — Beeskilled
-
-MERN Stack
-
-During this experience, I worked with:
-
-MongoDB Express.js React.js Node.js
-
-I gained practical exposure to frontend/backend integration, REST APIs, database operations and full-stack application development.
-
-📊 Data Analytics Intern — ApexPlanet Software Pvt. Ltd.
-
-Worked through areas including:
-
-Data Immersion & Wrangling
-
-Exploratory Data Analysis
-
-Business Intelligence
-
-Data-driven problem solving
-
-📚 What I'm Learning Right Now
-
-DSA                 █████████░░
-Java                ████████░░░
-C++                 ███████░░░░
-MERN Stack          █████████░░
-Game Development    ████████░░░
-UI/UX               ████████░░░
-Data Analytics      ██████░░░░░
-Git & GitHub        ████████░░░
-
-The goal isn't to learn everything at once.
-
-The goal is to become better than yesterday.
-
-🎯 My Biggest Goals
-
-📚 GATE
-
-My dream is to crack GATE in my first attempt.
-
-I’m working toward this by strengthening my Computer Science and Information Technology fundamentals while balancing college, projects and skill development.
-
-🛡️ TNUSRB
-
-Another major goal is to crack the TNUSRB Examination in my first attempt.
-
-This requires consistency, discipline and preparation — qualities I’m actively trying to build.
-
-💻 Career
-
-Alongside exam preparation, I want to become capable of building real software products and gaining meaningful industry experience.
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/thejaswin-s/">
-<img src="https://img.shields.io/badge/LinkedIn-Thejaswin%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://thejaswinportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Thejaswin%20S-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
-⚡ Beyond Technology
-
-🏏 Cricket🍳 Cooking🎬 Movies & Anime🎵 Music📚 Reading🎮 Gaming🇯🇵 Learning Japanese
-
-<div align="center">
-
-💡 My Rule
-
-Learn → Build → Fail → Debug → Improve → Repeat
-
-<br>
-
-🎯 Dream Big. Prepare Seriously. Build Consistently.
-
-<br>
-
-Thanks for visiting my GitHub profile! ⭐
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide
