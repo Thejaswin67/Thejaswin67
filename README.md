@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Thejaswin S    aka      LEO
+# 👋 Hi, I'm Thejaswin ( aka ) LEO
 
 ### 19 | B.Tech - IT Student | Professional Overthinker 24/7
 
