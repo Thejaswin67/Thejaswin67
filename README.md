@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Thejaswin S aka LEO
+# 👋 Hi, I'm Thejaswin S    aka      LEO
 
 ### 19 | B.Tech - IT Student | Professional Overthinker 24/7
 
@@ -111,11 +111,3 @@ There are two goals that matter a lot to me:
 Alongside these goals, I want to build enough technical ability to create real projects, gain industry experience and become someone who can take an idea and actually turn it into something useful.
 
 ---
-
-## 📊 GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide
